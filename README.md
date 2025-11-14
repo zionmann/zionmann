@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zionmann
-- 👀 I’m interested in AI and Programming
-- 🌱 I’m currently learning Deep Learning strategies
+- 👀 I’m interested in AI application and RAG Programming
+- 🌱 I’m currently work with Deep Learning strategies for fun
 - 💞️ I’m looking to collaborate on toolkits developement
 - 📫 You may reach me via zionman.hsu@gmail.com
 
